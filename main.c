@@ -10,7 +10,7 @@ void main(){
 	int c;
 	int d;
 
-	a = a + b + c + d;
+	a = a + b + c;
 
 	return;
 }
